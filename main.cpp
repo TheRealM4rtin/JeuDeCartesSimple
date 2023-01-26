@@ -81,6 +81,5 @@ int main() {
 
     deck.PiocherNCartes(p.cartes, 5);
     std::cout << "Il reste " << p.cartesrestantes() << " cartes dans le paquet" << std::endl;
-
     return 0;
 }
